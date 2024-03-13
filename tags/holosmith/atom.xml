@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - holosmith</title>
+    <subtitle>Low-Intensity Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://accessibilitywars.github.io/builds/tags/holosmith/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://accessibilitywars.github.io/builds"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-03T00:00:00+00:00</updated>
+    <id>https://accessibilitywars.github.io/builds/tags/holosmith/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Power Holosmith</title>
+        <published>2024-03-03T00:00:00+00:00</published>
+        <updated>2024-03-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://accessibilitywars.github.io/builds/builds/power-holosmith/"/>
+        <id>https://accessibilitywars.github.io/builds/builds/power-holosmith/</id>
+        
+        <content type="html" xml:base="https://accessibilitywars.github.io/builds/builds/power-holosmith/">&lt;p&gt;A hammer priority-based build, with two different priority sets (in&#x2F;out of forge), this build heats up fast.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Hammer, Sigils of Force &amp;amp; Impact&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGOyYvOTcqDwAA5RYAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;21659,43739,5818,42842,42009&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,57&#x27; data-armory-6-traits=&#x27;1882,1892,1947&#x27; data-armory-38-traits=&#x27;1914,1923,526&#x27; data-armory-57-traits=&#x27;2106,2103,2064&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Power Holosmith, played in this rotation, can be summed up by having a skill priority order and pressing skills off cooldown, with the exception of Laser Disc and Prime Light Beam. These 2 skills have the additional condition of needing to be pressed above 50% heat.&lt;&#x2F;p&gt;
+&lt;p&gt;The highest priority skills are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Particle Accelerator&lt;&#x2F;li&gt;
+&lt;li&gt;Surprise Shot&lt;&#x2F;li&gt;
+&lt;li&gt;Blade Burst&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;They are all the same priority as each other as none of these 3 skills have a cast time, and can be cast anytime without interrupting any of your skills or auto attack chain.&lt;&#x2F;p&gt;
+&lt;p&gt;In Photon Forge mode, your skill priorities are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;3&quot; data-aw2-skill=&quot;44530&quot;&#x2F;&gt; Forge 3 Corona Burst&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;4&quot; data-aw2-skill=&quot;45783&quot;&#x2F;&gt; Forge 4 Photon Blitz&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;9&quot; data-aw2-skill=&quot;42842&quot;&#x2F;&gt; Laser Disk (above 50% heat)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;0&quot; data-aw2-skill=&quot;42009&quot;&#x2F;&gt; Prime Light Beam (above 50% heat)&lt;&#x2F;li&gt;
+&lt;li&gt;Auto attack when you can&#x27;t press any buttons.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Outside of Photon Forge, your skill priorities are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;5&quot; data-aw2-skill=&quot;30713&quot;&#x2F;&gt; Hammer 5 Thunder Clap&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;4&quot; data-aw2-skill=&quot;30088&quot;&#x2F;&gt; Hammer 2 Electro-whirl&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;7&quot; data-aw2-skill=&quot;43739&quot;&#x2F;&gt; Photon Wall + Launch Wall (spam the button)&lt;&#x2F;li&gt;
+&lt;li&gt;Auto attack when you can&#x27;t press any buttons.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;Your CC skills are Static Shock, and Forge 5 Holographic Shockwave. That&#x27;s not a lot of CC, so if you need more CC, you can swap out Rifle Turret for Throw Mine, and if you need even more CC, swap out Photon Wall for Personal Battering Ram.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;other-references&quot;&gt;Other References&lt;&#x2F;h2&gt;
+&lt;p&gt;{% include video id=&amp;quot;IPqhB8YIiwo&amp;quot; provider=&amp;quot;youtube&amp;quot; %}&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

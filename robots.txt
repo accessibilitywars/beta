@@ -1,0 +1,5 @@
+
+Sitemap: https://accessibilitywars.github.io/builds/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://accessibilitywars.github.io/builds
